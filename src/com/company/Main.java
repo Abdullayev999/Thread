@@ -11,13 +11,13 @@ import java.util.Stack;
 class Task {
     String task;
     String data;
-    String task2;
-    String data2;
 
     Task() {
 
     }
-
+    public void Aditional2(){
+        System.out.println("Add method");
+    }
     public void Aditional(){
         System.out.println("Add method");
     }
