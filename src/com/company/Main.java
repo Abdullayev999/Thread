@@ -11,13 +11,7 @@ import java.util.Stack;
 class Task {
     String task;
     String data;
-
-    Task() {
-
-    }
-    public void Aditional2(){
-        System.out.println("Add method");
-    }
+   
     public void Aditional(){
         System.out.println("Add method");
     }
@@ -43,8 +37,6 @@ class Task {
     public void setupTask() {
         System.out.println("Делаем задачу!");
     }
-
-
 }
 
 
